@@ -33,8 +33,6 @@ DEBUG = True
 ALLOWED_HOSTS = ['codestar74.herokuapp.com', 'localhost']
 
 
-
-
 # Application definition
 
 INSTALLED_APPS = [
